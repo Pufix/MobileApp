@@ -1,0 +1,7 @@
+The app will be a simple mobile app that reminds the user to take their medicine and to keep track of the pills stock 
+and send refill reminders.
+
+1. The app should send notifications begining at a set time in the day to remind the user to take their medicine.
+2. The user should be able to enter the app and press a button that says that "I took my medicine"
+3. The app should automatically decrement the pills stock.
+4. The user should be able to modify the existing pills stock.

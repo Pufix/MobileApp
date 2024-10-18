@@ -1,0 +1,2 @@
+Every command (post, update, detele) operation is updated to the server 
+once the app is connected to the internet and/or the server is back online

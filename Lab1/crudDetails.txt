@@ -1,0 +1,25 @@
+Medicine CRUD:
+
+GET:
+
+GetStock(id) returns the stock of a given medicine
+GetTime(id) returns the time to take a given medicine
+GetTimes() returns a list of all the times and what medicine id to take
+GetStocks() returns a list of all the medicine ids stocks
+GetMedicine(id) returns the details of a given medicine
+GetMedicines() returns a list of all the medicines with their details
+
+POST:
+
+TakePills(time) decrement the stock of a the medicine taken at a given time
+RefillPill(id, quantity) increments of a given medicine
+AddMedicine(medicine) adds a new medicine
+
+DELETE:
+
+RemoveMedicine(id) removes a medicine
+
+UPDATE:
+
+ChangeTime(id, time[]) changes the times that a medicine is taken
+ChangeStock(id, stock) changes the stock of a given medicine

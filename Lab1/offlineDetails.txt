@@ -1,0 +1,2 @@
+The app stores each command locally until it can upload the commands to the server and keeps a local stock of each medicine.
+The app functions normally but without server backups.

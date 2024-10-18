@@ -1,0 +1,9 @@
+Entity: Medicine
+
+Fields:
+
+quantity
+name
+manufacturer
+prescriptionNeeded (bool)
+timeToTake (array, 30 min intervals)
